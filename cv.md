@@ -11,12 +11,13 @@
 4. **Telegram: [@LinnBlok](https://t.me/LinnBlok)**
 
 **********************
- 
+
 ## Briefly About Myself: ##
 
 I am 25 years old and I am a humanitarian)
 The IT industry for me is a great way to change my mindset and achieve the desired and comfortable standard of living. I like programming because the result depends only on you.
 >I want - I can - I need.
+
 
 ****************************************
 ## Skills and Proficiency: ##
@@ -27,6 +28,7 @@ The IT industry for me is a great way to change my mindset and achieve the desir
 
 
 *******************************
+
 ## Code example: ##
 ```javascript
 function evenNumbertwo(q){
@@ -55,8 +57,7 @@ twoArg(3, 2)
 4. **JavaScript [learn.javascript.ru](https://learn.javascript.ru/) (in progress)**
 5. **RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)**
 
-******************************* 
-
+*******************************
 ## Languages: ##
 
 * Russian - Native
