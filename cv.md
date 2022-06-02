@@ -10,17 +10,19 @@
 
 4. **Telegram: [@LinnBlok](https://t.me/LinnBlok)**
 
+5.**:round_pushpin: Moscow**
+
 **********************
 
-## Briefly About Myself: ##
+## :memo::pencil: Briefly About Myself: ##
 
-I am 25 years old and ~~I am a humanitarian~~ I have everything ahead of me.
+I am 25 years old and ~~I am a humanitarian~~ :sweat_smile: I have everything ahead of me.
 The IT industry for me is a great way to change my mindset and achieve the desired and comfortable standard of living. I like programming because the result depends only on **you.**
 >I want - I can - I need.
 
 
 ****************************************
-## Skills and Proficiency: ##
+## :star: Skills and Proficiency: ##
 * HTML
 * CSS
 * JavaScript Basic
@@ -50,7 +52,7 @@ twoArg(3, 2)
 ```
 *******************************
 
-## Courses: ##
+## :medal_sports: Courses: ##
 1. **Guide to HTML5 and CSS3 in [METANIT.COM](https://metanit.com)**
 2. **Simulators and challenges in [Html Academy](https://htmlacademy.ru)**
 3. **HTML and CSS Tutorials on the [w3schools](https://www.w3schools.com/html/default.asp)(in progress)**
