@@ -1,4 +1,4 @@
-# *Alina Borzova* #
+# *Alina Borzova* :woman_student: #
 ************************
 ## Contact information: ##
 
