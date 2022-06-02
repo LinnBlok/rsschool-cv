@@ -10,7 +10,7 @@
 
 4. **:iphone:Telegram: [@LinnBlok](https://t.me/LinnBlok)**
 
-   5.**:round_pushpin: Moscow**
+ 5.**:round_pushpin: Moscow**
 
 **********************
 
