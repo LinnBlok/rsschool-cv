@@ -9,8 +9,7 @@
 3. **:computer:GitHub: [LinnBlok](https://github.com/LinnBlok)**
 
 4. **:iphone:Telegram: [@LinnBlok](https://t.me/LinnBlok)**
-
-5.**:round_pushpin: City: Moscow**
+5. **:round_pushpin: Moscow**
 
 **********************
 
