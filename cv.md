@@ -14,7 +14,7 @@
 
 ## Briefly About Myself: ##
 
-I am 25 years old and I am a humanitarian)
+I am 25 years old and ~~I am a humanitarian~~ I have everything ahead of me.
 The IT industry for me is a great way to change my mindset and achieve the desired and comfortable standard of living. I like programming because the result depends only on you.
 >I want - I can - I need.
 
