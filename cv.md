@@ -2,19 +2,19 @@
 ************************
 ## Contact information: ##
 
-1. **Phone: +79689265786**
+1. **:telephone_receiver:Phone: +79689265786**
 
-2. **Email: alina.borzova26@gmail.com**
+2. **:envelope:Email:  alina.borzova26@gmail.com**
 
-3. **GitHub: [LinnBlok](https://github.com/LinnBlok)**
+3. **:computer:GitHub: [LinnBlok](https://github.com/LinnBlok)**
 
-4. **Telegram: [@LinnBlok](https://t.me/LinnBlok)**
+4. **:iphone:Telegram: [@LinnBlok](https://t.me/LinnBlok)**
 
 5.**:round_pushpin: Moscow**
 
 **********************
 
-## :memo::pencil: Briefly About Myself: ##
+## :pencil2: Briefly About Myself: ##
 
 I am 25 years old and ~~I am a humanitarian~~ :sweat_smile: I have everything ahead of me.
 The IT industry for me is a great way to change my mindset and achieve the desired and comfortable standard of living. I like programming because the result depends only on **you.**
@@ -31,7 +31,7 @@ The IT industry for me is a great way to change my mindset and achieve the desir
 
 *******************************
 
-## Code example: ##
+## :paperclip: Code example: ##
 ```javascript
 function evenNumbertwo(q){
 let a =  (q % 2 === 0 ? (q * 2 ) : (q * 3));
