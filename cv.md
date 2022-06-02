@@ -10,7 +10,7 @@
 
 4. **:iphone:Telegram: [@LinnBlok](https://t.me/LinnBlok)**
 
- 5.**:round_pushpin: Moscow**
+  5.**:round_pushpin: Moscow**
 
 **********************
 
@@ -60,7 +60,7 @@ twoArg(3, 2)
 5. **RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)**
 
 *******************************
-## Languages: ##
+## :bulb: Languages: ##
 
 * Russian - Native
 * English - A2 
