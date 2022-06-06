@@ -1,8 +1,11 @@
 *{
-
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 body{
     width: 100%;
@@ -68,13 +71,13 @@ a:hover {
     margin: 0 40px;
 }
 .contact{
-    width: 80%;
-    padding-top: 10px;
+    padding-top: 15px;
+    float: left;
     text-align: center;
+
 }
 ul.inline li {
     display: inline-block;
-    padding: 3px; /* Поля вокруг текста */
 }
 .about{
     width: 65%;
@@ -90,7 +93,7 @@ blockquote{
     font-weight: 600;
 }
 pre{
-    width: 43%;
+    width: 48%;
     background-color: #d9acd6;
     font-size: 18px;
     font-weight: 500;
@@ -118,7 +121,7 @@ footer{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 150px;
+    height: 190px;
 }
 .logo-gith{
     width: 100px;
@@ -128,4 +131,9 @@ footer{
     width: 150px;
     height: 150px;
 }
-
+.buttonup{
+    position:fixed;
+    bottom:20px;
+    right:50px;
+    opacity: 50%;
+}
