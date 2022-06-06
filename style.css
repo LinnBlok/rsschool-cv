@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+html {
+    scroll-behavior: smooth;
+}
 body{
     width: 100%;
     background-image: linear-gradient(#d4dfff, #faefb8, #f8becd, #bd84b2);
@@ -11,26 +15,18 @@ body{
     font-family: 'Dosis', sans-serif;
 }
 .content{
-    width: 80%;
+    width: 75%;
     margin: auto;
 }
 div{
     padding: 15px;
 }
-.photo{
-
-}
-.contact{
-
-}
 h1{
     font-size: 40px;
     font-weight: 900;
-
 }
 h2{
     font-size: 30px;
-
 }
 p{
     font-family: 'Raleway', sans-serif;
@@ -40,52 +36,53 @@ li{
     list-style: none;
     font-size: 25px;
     font-family: 'Raleway', sans-serif;
-
 }
 .nav {
     display: flex;
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    padding-bottom: 100px;
+    padding-bottom: 70px;
     margin-top: 20px;
-
 }
 .nav li{
     display: inline;
     margin: 0 10px;
 }
-
 a{
     cursor: pointer;
     text-decoration: none;
     font-weight: 900;
-    color: #6b3c99;
+    color: rgba(109, 8, 168, 0.88);
 }
 a:visited {
     color: #591758;
 }
 a:hover {
-    color: #ebac85;
-}
-
-.avatar{
-    width: 50%;
-    border-radius: 100%;
-    padding-bottom: 30px;
-}
-.contact{
-    padding-top: 30px;
+    color: #f3ac74;
 }
 .box{
     display: flex;
     justify-content: space-between;
 }
+.avatar{
+    width: 50%;
+    border-radius: 100%;
+    margin: 0 40px;
+}
+.contact{
+    padding-top: 15px;
+    float: left;
+    text-align: center;
+
+}
+ul.inline li {
+    display: inline-block;
+}
 .about{
-    width: 60%;
-    font-size: 30px;
-    padding-top: 50px;
-    padding-right: 50px;
+    width: 65%;
+    font-size: 35px;
+    padding: 50px 50px 0 0;
 }
 .you{
     font-weight: 500;
@@ -95,23 +92,18 @@ blockquote{
     float: right;
     font-weight: 600;
 }
-.code{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-
-}
 pre{
-    width: 42%;
+    width: 48%;
     background-color: #d9acd6;
     font-size: 18px;
     font-weight: 500;
     font-family: 'Bitter', serif;
     border-radius: 20%;
 }
-.logo{
-    width: 100px;
-    height: 100px;
+.code{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 .container{
     display: flex;
@@ -124,11 +116,24 @@ pre{
     text-align: center;
     background-color: #ffc9d8;
     border-radius: 30%;
-
 }
 footer{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    height: 190px;
+}
+.logo-gith{
+    width: 100px;
+    height: 100px;
+}
+.logo-rss{
+    width: 150px;
     height: 150px;
+}
+.buttonup{
+    position:fixed;
+    bottom:20px;
+    right:50px;
+    opacity: 50%;
 }
