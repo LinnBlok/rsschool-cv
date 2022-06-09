@@ -85,7 +85,8 @@ ul.inline li {
     width: 65%;
     display: block;
     font-size: 35px;
-    padding: 50px 50px 0 0;
+    padding-top: 20px;
+
 }
 .about-myself{
     flex-wrap: wrap;
@@ -93,7 +94,7 @@ ul.inline li {
     font-family: 'Quicksand', sans-serif;
 }
 blockquote{
-    padding-top: 15px;
+    padding-top: 20px;
     font-size: 35px;
     float: right;
     font-weight: 600;
@@ -122,6 +123,10 @@ pre{
     background-color: #ffc9d8;
     border-radius: 30%;
 }
+.column:hover{
+    box-shadow: 0 0 60px 0 #9d3a9b;
+}
+
 footer{
     display: flex;
     align-items: center;

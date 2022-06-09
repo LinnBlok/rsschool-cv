@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<!--suppress HtmlUnknownTarget -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Linn Blok CV</title>
     <link href="style.css" rel="stylesheet">
+    <link href="normalize.css" rel="stylesheet">
     <link rel="icon" href="img\icon-cv.png" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -39,16 +39,18 @@
 
     <!--info-->
     <div class="box">
-    <aside class="contact">
-        <img class="avatar" src="img\photo.png" alt="Avatar">
-        <h1>Alina Borzova</h1>
-        <h2>Beginner frontend developer </h2>
-        <h2 id="contact">Contacts</h2>
-        <ul class="inline">
-            <li> <a href="tel:+79689265786"> <img src="img\phone.svg" alt="call" ></a></li>
-                <li> <a href="mailto:alina.borzova26@gmail.com" target="_blank"> <img src="img\email.svg" alt="email" ></a> </li>
-                <li> <a href="https://t.me/LinnBlok" target="_blank"> <img src="img\telegram.svg" alt="telegram" ></a></li>
-                <li> <a> <img src="img\discord.svg" alt="discord" onclick="discordFunction()">
+        <aside class="contact">
+            <img class="avatar" src="img\photo.png" alt="Avatar">
+            <h1>Alina Borzova</h1>
+            <h2>Beginner frontend developer </h2>
+            <h2 id="contact">Contacts</h2>
+            <ul class="inline">
+                <li><a href="tel:+79689265786"> <img src="img\phone.svg" alt="call"></a></li>
+                <li><a href="mailto:alina.borzova26@gmail.com" target="_blank"> <img src="img\email.svg"
+                                                                                     alt="email"></a></li>
+                <li><a href="https://t.me/LinnBlok" target="_blank"> <img src="img\telegram.svg" alt="telegram"></a>
+                </li>
+                <li><a> <img src="img\discord.svg" alt="discord" onclick="discordFunction()">
                     <script>
                         function discordFunction() {
                             alert("Linn Blok#8497");
@@ -57,25 +59,27 @@
                 </a>
                 </li>
             </ul>
-    </aside>
+        </aside>
 
-    <section class="about">
-        <h2 id="about">About Myself</h2>
+        <section class="about">
+            <h2 id="about">About Myself</h2>
             <p class="about-myself">
-                I am 25 years old, and I am a humanist) The IT industry is a great way for me to change
-                my thinking and achieve the desired and comfortable standard of living.
+                I am 25 years old, and <br>
+                <s> I am a humanitarian)</s><br>
+                I have everything ahead of me.
+                The IT industry is a great way for me to change
+                my thinking and achieve the desired and comfortable standard of living.<br>
                 I like the frontend because the result depends only on <strong>you</strong> .
             </p>
-                <blockquote> I want - I can - I need. </blockquote>
-    </section>
+            <blockquote> I want - I can - I need.</blockquote>
+        </section>
     </div>
-
 
 
     <!--code example-->
     <div class="code">
         <h2 id="code">Code example:</h2>
-            <pre>
+        <pre>
             <code>
     function evenNumbertwo(q){
     let a = (q % 2 === 0 ? (q * 2 ) : (q * 3));
@@ -95,8 +99,7 @@
     twoArg(3, 2)
             </code>
             </pre>
-        </div>
-
+    </div>
 
 
     <!--knowledge-->
@@ -105,15 +108,15 @@
             <h2 id="education">Education</h2>
             <p>Moscow State <br>Institute of Culture</p>
         </div>
-    <div class="column">
-        <h2 id="skills">Skills and Proficiency</h2>
-        <ul>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript </li>
-            <li>Git/GitHub</li>
-        </ul>
-    </div>
+        <div class="column">
+            <h2 id="skills">Skills and Proficiency</h2>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>Git/GitHub</li>
+            </ul>
+        </div>
         <div class="column">
             <h2 id="language">Language</h2>
             <ul>
@@ -124,7 +127,8 @@
         <div class="column">
             <h2 id="projects">Projects</h2>
             <ul>
-                <li><a href="https://LinnBlok.github.io/rsschool-cv/cv" target="_blank"> CV in Markdown </a></li>
+                <li><a href="https://github.com/LinnBlok/rsschool-cv/blob/gh-pages/cv.md" target="_blank"> CV in
+                    Markdown </a></li>
                 <li><a href="https://linnblok.github.io/Wine-boutique/" target="_blank"> Wine boutique </a></li>
 
             </ul>
@@ -133,13 +137,15 @@
 </main>
 <footer class="content">
     <div>
-        <a href="https://github.com/LinnBlok" target="_blank"><img src="img/github%20logo.png" alt="github_logo" class="logo-gith" ></a>
+        <a href="https://github.com/LinnBlok" target="_blank"><img src="img/github%20logo.png" alt="github_logo"
+                                                                   class="logo-gith"></a>
     </div>
     <div>
-        <p><b>© Create in 2022</b></p>
+        <p><b>2022</b></p>
     </div>
     <div>
-        <a href="https://rs.school/js/" target="_blank"><img src="img/rs_school_js.svg" alt="rss_logo" class="logo-rss" > </a>
+        <a href="https://rs.school/js/" target="_blank"><img src="img/rs_school_js.svg" alt="rss_logo" class="logo-rss">
+        </a>
     </div>
 
 </footer>
