@@ -1,6 +1,5 @@
 *{
-
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     box-sizing: border-box;
 }
@@ -10,10 +9,11 @@ html {
 }
 body{
     width: 100%;
-    background-image: linear-gradient(#d4dfff, #faefb8, #f8becd, #bd84b2);
-    margin: 0 auto;
     max-width: 1440px;
+    margin: 0 auto;
     font-family: 'Dosis', sans-serif;
+    background: linear-gradient(#d4dfff, #faefb8, #f8becd, #bd84b2) no-repeat;
+
 }
 .content{
     width: 75%;
@@ -35,15 +35,14 @@ p{
     font-size: 25px;
 }
 li{
-    list-style: none;
-    font-size: 28px;
     font-family: 'Dosis', sans-serif;
+    font-size: 28px;
+    list-style: none;
 }
 .nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    text-decoration: none;
     padding-bottom: 70px;
     margin-top: 20px;
 }
@@ -52,10 +51,10 @@ li{
     margin: 0 10px;
 }
 a{
-    cursor: pointer;
-    text-decoration: none;
     font-weight: 900;
     color: rgba(109, 8, 168, 0.88);
+    cursor: pointer;
+    text-decoration: none;
 }
 a:visited {
     color: #591758;
@@ -75,35 +74,34 @@ a:hover {
     display: block;
     text-align: center;
 
-
 }
 ul.inline li {
     display: inline-block;
 }
 .about{
-    text-align: center;
-    width: 65%;
     display: block;
-    font-size: 35px;
+    width: 65%;
     padding-top: 20px;
+    font-size: 35px;
+    text-align: center;
 
 }
 .about-myself{
     flex-wrap: wrap;
-    font-size: 30px;
     font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
 }
 blockquote{
+    float: right;
     padding-top: 20px;
     font-size: 35px;
-    float: right;
     font-weight: 600;
 }
 pre{
-    background-color: #d9acd6;
+    font-family: 'Bitter', serif;
     font-size: 18px;
     font-weight: 500;
-    font-family: 'Bitter', serif;
+    background-color: #d9acd6;
     border-radius: 18%;
 }
 .code{
@@ -129,8 +127,8 @@ pre{
 
 footer{
     display: flex;
-    align-items: center;
     justify-content: space-between;
+    align-items: center;
     height: 190px;
 }
 .logo-gith{
