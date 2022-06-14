@@ -104,6 +104,9 @@ pre{
     background-color: #d9acd6;
     border-radius: 18%;
 }
+pre:hover{
+
+}
 .code{
     display: flex;
     flex-direction: column;
@@ -122,7 +125,10 @@ pre{
     border-radius: 30%;
 }
 .column:hover{
+    transform: scale(1.5,1.5);
     box-shadow: 0 0 60px 0 #9d3a9b;
+    cursor: default;
+
 }
 
 footer{
