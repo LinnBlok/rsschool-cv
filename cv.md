@@ -29,3 +29,37 @@ The IT industry for me is a great way to change my mindset and achieve the desir
 
 
 *******************************
+
+## :paperclip: Code example: ##
+```javascript
+function evenNumbertwo(q){
+let a =  (q % 2 === 0 ? (q * 2 ) : (q * 3));
+console.log(a)
+}
+function twoArg (x, y){
+if (x % 2 === 0 && y % 2 === 0) {
+console.log(x + y)
+}
+else if (x % 2 === 0 || y % 2 === 0){
+console.log(x - y)
+}
+else {
+console.log(x * y)
+}
+}
+twoArg(3, 2)
+```
+*******************************
+
+## :medal_sports: Courses: ##
+1. **Guide to HTML5 and CSS3 in [METANIT.COM](https://metanit.com)**
+2. **Simulators and challenges in [Html Academy](https://htmlacademy.ru)**
+3. **HTML and CSS Tutorials on the [w3schools](https://www.w3schools.com/html/default.asp)(in progress)**
+4. **JavaScript [learn.javascript.ru](https://learn.javascript.ru/) (in progress)**
+5. **RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)**
+
+*******************************
+## :bulb: Languages: ##
+
+* Russian - Native
+* English - A2 
