@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://linnblok.github.io/rsschool-cv/cv
