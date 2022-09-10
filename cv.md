@@ -56,7 +56,7 @@ twoArg(3, 2)
 2. **Simulators and challenges in [Html Academy](https://htmlacademy.ru)**
 3. **HTML and CSS Tutorials on the [w3schools](https://www.w3schools.com/html/default.asp)(in progress)**
 4. **JavaScript [learn.javascript.ru](https://learn.javascript.ru/) (in progress)**
-5. **RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)**
+5. **RS Schools Course «JavaScript/Front-end. Stage 0»**
 
 *******************************
 ## :bulb: Languages: ##
