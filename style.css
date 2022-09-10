@@ -1,0 +1,20 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+body{
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    font-family: 'Dosis', sans-serif;
+    background: linear-gradient(#d4dfff, #faefb8, #f8becd, #bd84b2) no-repeat;
+
+}
+.content{
+    width: 75%;
+    margin: auto;
